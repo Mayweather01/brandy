@@ -39,7 +39,7 @@ header nav ul li a {
 
 .profile-picture {
     max-width: 200px;
-    border-radius: 50%;
+    border-radius: 100%;
     display: block;
     margin: 0 auto 20px;
 }
