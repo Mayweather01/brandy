@@ -94,7 +94,7 @@ footer {
 
  /* Add your CSS styling here */
  .welcome-message {
-    font-size: 10px;
+    font-size: 24px;
     font-weight: bold;
     color: white; /* Change this to your desired text color */
     position: absolute;
