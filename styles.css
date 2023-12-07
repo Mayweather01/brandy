@@ -39,7 +39,7 @@ header nav ul li a {
 
 .profile-picture {
     max-width: 200px;
-    border-radius: 100%;
+    border-radius: 50%;
     display: block;
     margin: 0 auto 20px;
 }
@@ -98,7 +98,7 @@ footer {
     font-weight: bold;
     color: white; /* Change this to your desired text color */
     position: absolute;
-    animation: moveWelcomeMessage 25s linear infinite;
+    animation: moveWelcomeMessage 30s linear infinite;
 }
 
 @keyframes moveWelcomeMessage {
@@ -133,9 +133,10 @@ a {
     transition: opacity 0.5s ease-in-out;
     z-index: 2;
 }
+
 .welcome-message {
     font-size: 3em;
-    font-weight: bolder;
+    font-weight: bold;
     color: white;
     position: absolute;
     top: 50%;
