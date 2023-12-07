@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
 }
 
@@ -90,6 +90,10 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
+}
+
+strong {
+    color: red;
 }
 
  /* Add your CSS styling here */
