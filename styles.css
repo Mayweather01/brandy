@@ -81,7 +81,7 @@ ul li {
 .social-icons a {
     font-size: 24px;
     margin-right: 20px;
-    color: black;
+    color: darkgreen;
     text-decoration: none;
 }
 
@@ -94,6 +94,27 @@ footer {
 
 strong {
     color: red;
+    font-weight: 900;
+}
+
+span{
+    font-weight: 800;
+    color: darkgreen;
+}
+
+.about{
+    color: darkgreen;
+    font-weight: 900;
+}
+
+.personal{
+    color: darkgreen;
+    font-weight: 900;
+}
+
+.contact{
+    color: darkgreen;
+    font-weight: 900;
 }
 
  /* Add your CSS styling here */
